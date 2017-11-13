@@ -6,11 +6,8 @@ This project helps to control time was spent on sites. It requires special exten
 
 Install extension for Chrome browser [Custom JavaScript for websites](https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija).
 
-Open configuration of [cjs](https://chrome.google
-.com/webstore/detail/custom-javascript-for-web
-/poakhlngfciodnhlhhgnaaelnpjljija) browser extension on the site you want to 
-controll. Click on the link "your own external scripts", add [https://a-savinov.github.io/34_timemachine/index.js]
-(https://a-savinov.github.io/34_timemachine/index.js)  Don`t forget to press "enable cjs for this host" to enable custom JS.
+Open configuration of [cjs](https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija) browser extension on the site you want to 
+controll. Click on the link "your own external scripts", add [https://a-savinov.github.io/34_timemachine/index.js](https://a-savinov.github.io/34_timemachine/index.js)  Don`t forget to press "enable cjs for this host" to enable custom JS.
 
 After that you will see countdown timer in the up right corner. By default 
 timer is set to 3 minutes. After the end of the countdown, you will see an alert with a motivating message in your browser every 30 seconds
